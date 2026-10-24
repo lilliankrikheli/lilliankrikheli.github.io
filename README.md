@@ -4,7 +4,7 @@ A responsive, dependency-free website for GitHub Pages. All content and styling 
 
 ## Update content
 1. Open `index.html` in GitHub and choose the pencil (Edit).
-2. Find the relevant section using its comment or section ID: about, research, publications, teaching, resources, presentations, contact.
+2. Find the relevant section using its comment or section ID: about, research, resources, presentations.
 3. Edit the text while preserving surrounding HTML tags. Use `&amp;` for ampersands.
 4. Commit the changes to `main`. GitHub Pages republishes automatically.
 
@@ -12,7 +12,6 @@ To add a publication, copy an existing `<article class="publication">…</articl
 
 ## Still to personalise
 - Optional portrait and CV (neither has been invented or sourced without permission).
-- Current teaching details: the listed subject is explicitly dated to its verified 2025 handbook.
 - Additional verified publications, presentations, slides and tools.
 - Review the short first-person biography for preferred wording.
 
@@ -21,6 +20,9 @@ Repository: `lilliankrikheli/lilliankrikheli.github.io`.
 In Settings → Pages, select Deploy from a branch, `main`, `/ (root)`, then Save.
 Expected address: https://lilliankrikheli.github.io/
 Only call this published after Pages confirms deployment and the address loads.
+
+## Structure
+Four sections: About, Research (including two recent selected works), Tools & Resources, and Talks & Conversations. Contact is a simple email link.
 
 ## Sources
 Public university, ORCID, PubMed and resource links are included directly in the page. Content checked 25 October 2026. No publication metrics or unsupported claims have been added.
