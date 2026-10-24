@@ -26,4 +26,4 @@ Only call this published after Pages confirms deployment and the address loads.
 Public university, ORCID, PubMed and resource links are included directly in the page. Content checked 25 October 2026. No publication metrics or unsupported claims have been added.
 
 ## Design and accessibility
-Original ivory/teal editorial design, responsive layouts, semantic headings, keyboard focus states, skip link, reduced-motion support and print styles. The LK graphic is a decorative monogram, not a portrait placeholder. There are no third-party fonts, packages or tracking scripts.
+Original ivory/teal editorial design, responsive layouts, semantic headings, keyboard focus states, skip link, reduced-motion support and print styles. The LK graphic is a decorative monogram, not a portrait placeholder. DM Sans is loaded from Google Fonts. There are no packages or tracking scripts.
