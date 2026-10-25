@@ -22,10 +22,13 @@ Expected address: https://lilliankrikheli.github.io/
 Only call this published after Pages confirms deployment and the address loads.
 
 ## Structure
-Four sections: About, Research (including two recent selected works), Tools & Resources, and Talks & Conversations. Contact is a simple email link.
+Four sections: About, Research (including two recent selected works), Resources, and Talks & Conversations. Contact is a simple email link.
 
 ## Sources
 Public university, ORCID, PubMed and resource links are included directly in the page. Content checked 25 October 2026. No publication metrics or unsupported claims have been added.
 
 ## Design and accessibility
-Original ivory/teal editorial design, responsive layouts, semantic headings, keyboard focus states, skip link, reduced-motion support and print styles. The LK graphic is a decorative monogram, not a portrait placeholder. DM Sans is loaded from Google Fonts. There are no packages or tracking scripts.
+Light grey background with restrained purple accents, responsive layouts, semantic headings, keyboard focus states, skip link, reduced-motion support and print styles. DM Sans is loaded from Google Fonts. There are no packages or tracking scripts.
+
+## Roles and enquiries
+Academic and private clinical roles are labelled separately. The university email is for academic enquiries only. Clinical enquiries go to Swallow Science. Keep the independence statement beside the private-practice information. No private undertaking or approval document is included in this repository.
