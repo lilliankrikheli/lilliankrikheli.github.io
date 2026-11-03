@@ -1,6 +1,6 @@
 # Dr Lillian Krikheli — academic website
 
-A responsive, dependency-free website for GitHub Pages. All content and styling are in `index.html`; no build tools or JavaScript are required.
+A responsive, dependency-free website for GitHub Pages. Content and styling are in `index.html`; four image files sit alongside it. No build tools or JavaScript are required.
 
 ## Update content
 1. Open `index.html` in GitHub and choose the pencil (Edit).
@@ -32,3 +32,6 @@ Light grey background with restrained purple accents, responsive layouts, semant
 
 ## Roles and enquiries
 Academic and private clinical roles are labelled separately. The university email is for academic enquiries only. Clinical enquiries go to Swallow Science. Keep the independence statement beside the private-practice information. No private undertaking or approval document is included in this repository.
+
+## Image maintenance
+Images are separate files beside index.html: lillian-krikheli.webp, aac-journal.jpg, dysphagia-research-bites.jpg, and speak-up.jpg. Keep these files when publishing. Do not embed images as base64 in HTML. Routine text edits only require updating index.html. The ReSP3CT image remains linked to its original source.
